@@ -1,5 +1,5 @@
 # ImmuneBallotWeb
-Ethereum Blockchain Based Voting application which provides a decentralised architecture to run
+Ethereum Blockchain Based Voting application which provides a decentralized architecture to run
 and support a voting scheme that is open, fair and independently verifiable.
 
 ###### **Tech Stack**
