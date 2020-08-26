@@ -10,8 +10,7 @@ and support a voting scheme that is open, fair and independently verifiable.
 ### Installation
 
 ##### Step 1: Clone Project
-  `$ git clone https://github.com/yashpanpatil/yashpanpatil-IC472_JIT-TECH-TYCOONS-.git
-
+  `$ git clone https://github.com/Yash-Panpatil/Immune-Ballot.git
 ##### Step 2: Install Dependencies
 `$ npm install`
 
